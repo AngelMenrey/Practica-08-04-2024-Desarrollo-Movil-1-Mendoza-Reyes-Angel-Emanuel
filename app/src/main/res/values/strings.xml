@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Conversiones 5.0</string>
+    <string name="metros">Cantidad de metros</string>
+    <string name="pies">Pies</string>
+    <string name="pulgadas">Pulgadas</string>
+    <string name="yardas">Yardas</string>
+    <string name="convertir">Convertir</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="resultado">Cantidad de metros convertidad a : </string>
+    <string name="otro">Otro</string>
+</resources>
